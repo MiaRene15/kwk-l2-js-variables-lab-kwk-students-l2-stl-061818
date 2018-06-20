@@ -2,7 +2,7 @@
 let companyName = 'Scuber';
 
 if companyName = 'specialCompany'{
-  console.log('TypeError');
+  console.log('TypeError')
 } else companyName = 'Scuber'{
   console.log('Scuber')
 }
