@@ -2,5 +2,5 @@
 let companyName = 'Scuber';
 
 if companyName = 'specialCompany'{
-  console.log('TypeError')
+  console.log('TypeError');
 }
