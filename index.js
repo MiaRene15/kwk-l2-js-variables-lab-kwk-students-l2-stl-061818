@@ -3,4 +3,6 @@ let companyName = 'Scuber';
 
 if companyName = 'specialCompany'{
   console.log('TypeError');
+} else companyName = 'Scuber'{
+  console.log()
 }
